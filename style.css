@@ -55,8 +55,8 @@ body {
   left: 0;
   position: absolute;
   border-radius: 0.7rem;
-  border: 0.35rem solid #38a046;
-  background-color: #38a046;
+  border: 0.35rem solid #2aaf92;
+  background-color: #2e8b6f;
   clip-path: polygon(100% 0%, 50% 70%, 0% 0%, 0% 100%, 100% 100%);
   z-index: 300;
 }
@@ -67,7 +67,7 @@ body {
   left: 0;
   position: absolute;
   border-radius: 0.7rem;
-  background-color: #249762;
+  background-color: #66c79a;
   clip-path: polygon(0% 0%, 100% 0%, 90% 100%, 0% 90%);
   z-index: 100;
 }
@@ -78,7 +78,7 @@ body {
   left: 0;
   position: relative;
   border-radius: 0.7rem;
-  background-color: #073525;
+  background-color: #066d46;
   z-index: 400;
   clip-path: polygon(0% 0%, 100% 0%, 50% 81%);
 }
